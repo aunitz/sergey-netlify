@@ -9,7 +9,7 @@ backend:
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under assets/images/uploads
 public_folder: "/assets/images/uploads" # We usually start the path at the site root, using the opening /
 
-locale: "de" # Defaults to en
+locale: "es" # Defaults to en
 
 collections:
   - label: "Blog"
