@@ -1,0 +1,10 @@
+backend:
+  name: git-gateway # Use netlify identity as backend
+  branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+# publish_mode: editorial_workflow # https://www.netlifycms.org/docs/configuration-options/#publish-mode
+
+# These lines should *not* be indented
+media_folder: "assets/images/uploads" # Media files will be stored in the repo under assets/images/uploads
+public_folder: "/assets/images/uploads" # We usually start the path at the site root, using the opening /

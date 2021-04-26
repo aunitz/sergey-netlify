@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "netlify-cms-app": "^2.14.46",
     "sergey": "0.0.13"
   }
 }
